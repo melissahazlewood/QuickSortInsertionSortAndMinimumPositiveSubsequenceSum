@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		72630A592397522D00D7455F /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 72630A582397522D00D7455F /* main.cpp */; };
+		72630A592397522D00D7455F /* CECS328Lab6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 72630A582397522D00D7455F /* CECS328Lab6.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		72630A552397522D00D7455F /* Lab6 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Lab6; sourceTree = BUILT_PRODUCTS_DIR; };
-		72630A582397522D00D7455F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		72630A582397522D00D7455F /* CECS328Lab6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CECS328Lab6.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		72630A572397522D00D7455F /* Lab6 */ = {
 			isa = PBXGroup;
 			children = (
-				72630A582397522D00D7455F /* main.cpp */,
+				72630A582397522D00D7455F /* CECS328Lab6.cpp */,
 			);
 			path = Lab6;
 			sourceTree = "<group>";
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 72630A502397522D00D7455F /* Build configuration list for PBXProject "Lab6" */;
+			buildConfigurationList = 72630A502397522D00D7455F /* Build configuration list for PBXProject "CECS328Lab6" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				72630A592397522D00D7455F /* main.cpp in Sources */,
+				72630A592397522D00D7455F /* CECS328Lab6.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,7 +258,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		72630A502397522D00D7455F /* Build configuration list for PBXProject "Lab6" */ = {
+		72630A502397522D00D7455F /* Build configuration list for PBXProject "CECS328Lab6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				72630A5A2397522D00D7455F /* Debug */,
